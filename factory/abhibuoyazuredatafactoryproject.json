@@ -1,0 +1,9 @@
+{
+	"name": "abhibuoyazuredatafactoryproject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1192f72d-5a5c-4298-808c-551fc20f9b60",
+		"tenantId": "9ccba5d3-1ebb-4968-b3d0-3476af57c8e6"
+	}
+}
